@@ -1,4 +1,4 @@
-# SAM AI Task 4 - Fake News Detection
+# SAM AI Task 2 - Fake News Detection
 
 A Streamlit NLP + Machine Learning demo that classifies a news statement as Real or Fake.
 
