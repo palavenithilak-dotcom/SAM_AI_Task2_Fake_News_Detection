@@ -27,9 +27,8 @@ This project uses the **Fake and Real News Dataset** from Kaggle.
 **Note:** The dataset files are not included in this GitHub repository because of their large size.
 
 ## Run
+
 ```bash
 python -m pip install -r requirements.txt
 python -m streamlit run app.py
 ```
-
-> Download the Fake and Real News Dataset from Kaggle and place Fake.csv and True.csv inside the data folder before running the application.
