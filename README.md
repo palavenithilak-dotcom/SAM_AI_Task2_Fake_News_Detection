@@ -11,7 +11,7 @@ A Streamlit NLP + Machine Learning demo that classifies a news statement as Real
 - Prediction confidence
 - Interactive news-text prediction
 
-- ## Dataset
+## Dataset
 
 This project uses the **Fake and Real News Dataset** from Kaggle.
 
