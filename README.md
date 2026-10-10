@@ -32,4 +32,4 @@ python -m pip install -r requirements.txt
 python -m streamlit run app.py
 ```
 
-> The bundled dataset is intentionally small for a quick demonstration. For a portfolio-quality model, replace it with a larger labeled real/fake news dataset.
+> Download the Fake and Real News Dataset from Kaggle and place Fake.csv and True.csv inside the data folder before running the application.
